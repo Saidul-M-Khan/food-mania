@@ -1,5 +1,5 @@
 ## food-mania
-Live Website Link: http://127.0.0.1:5500/food-network/index.html
+Live Website Link: https://saidul-m-khan.github.io/food-mania/index.html
 
 Note: Use Firefox for Batter View
 
