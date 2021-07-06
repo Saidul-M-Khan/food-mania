@@ -46,15 +46,15 @@ p{
     display: flex;
 } 
 .half-width{
-    width: 50%;
+    width: 100%;
     padding-top: 5%;
-    padding-left: 7%;
-    padding-right: 10%;
+    padding-left: 10%;
+    padding-right: 2%;
 }
 .half-width img{
     width: 100%;
-    padding-left: 65%;
-    padding-top: 10%;
+    padding-left: 90%;
+    padding-top: 20%;
 }
 .mid-width{
     width: 50%;
@@ -80,6 +80,11 @@ p{
 .myself{
     left: 1200px;
     padding-right: 5%;
+}
+.quote{
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 5%;
 }
 .my-recipies img{
     display: block;
@@ -195,13 +200,16 @@ footer p{
     float: right;
     padding-top: 2%;
     padding-bottom: 5%;
-    
+    margin-bottom: 5%;
+    margin-top: 1.5%;
+    margin-right: 4%;
 }
 .option{
     text-decoration: none;
     color:rgb(0, 0, 0);
-    
+    font-size: 25px;
 }
+
 li {
     display: inline-block;
     text-align: center;
