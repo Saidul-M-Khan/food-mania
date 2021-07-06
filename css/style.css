@@ -65,7 +65,7 @@ p{
 }
 .mid-width img{
     width: 60%;
-    padding-left: 0px;
+    margin-left: 100px;
 }
 .about-me{
     background-image: url(../images/shapes/about-me2.jpg);
