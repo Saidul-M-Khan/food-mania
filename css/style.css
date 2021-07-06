@@ -2,7 +2,7 @@ html {
     min-height: 100%;
  }
 body{
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0;
 }
 h1{
@@ -53,7 +53,8 @@ p{
 }
 .half-width img{
     width: 100%;
-    padding-left: 2%;
+    padding-left: 65%;
+    padding-top: 10%;
 }
 .mid-width{
     width: 50%;
