@@ -157,7 +157,7 @@ p{
 .flexible-container{
     display:flex;
     height: 500px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     padding-bottom: 150px;
 }
 .status{
@@ -179,9 +179,9 @@ p{
 }
 .status h1{
     font-style: normal;
-font-weight: bold;
-font-size: 48px;
-line-height: 64px;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 64px;
 }
 .social-info{
     margin-right: 5%;
@@ -209,7 +209,6 @@ footer p{
     color:rgb(0, 0, 0);
     font-size: 25px;
 }
-
 li {
     display: inline-block;
     text-align: center;
@@ -218,4 +217,27 @@ li {
     color: black;
     font-weight: 700;
     color:rgb(0, 0, 0);
+}
+.food-delivery {
+    width: 70%;
+    height:200px;
+    margin: 100px auto;
+    position: relative;
+    background-image: url(../images/shapes/delivery.png);
+    color: #ffffff;
+    text-align: center;
+    padding-left: 10%;
+    border-radius: 0 50px 0 50px;
+    border-radius: 50px 0 50px 0 ;
+}
+.number-background .number{
+    background-image: linear-gradient(#D16BA5, #86A8E7, #5FFBF1);
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 30px;
+    transform: translateY(110%);
+    margin-left: 65%;
+}
+.number-background .number:hover {
+    box-shadow: 10px 10px 50px rgb(204, 255, 245);
 }
